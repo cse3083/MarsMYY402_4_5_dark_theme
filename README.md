@@ -1,9 +1,9 @@
 # MarsMYY402_4_5_dark_theme
 Dark theme for a custom (MarsMYY402_4_5) Mars distribution.
 
-![alt tag] (http://i.imgur.com/G4VP7Wv.png)
+![alt text](http://i.imgur.com/G4VP7Wv.png "Logo Title Text 1")
 
-#License
+# License
 
 MIT License
 
